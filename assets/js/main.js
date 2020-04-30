@@ -117,6 +117,17 @@
 					side: 'right'
 				});
 
+		//skillbar
+		// $( "#skill" ).each( function() {
+		// 	var p = $(this),
+		// 		i = p.find('.expand');
+
+		// 	i.addClass('scrolly');
+
+			
+
+		// });
+
 	});
 
 })(jQuery);
